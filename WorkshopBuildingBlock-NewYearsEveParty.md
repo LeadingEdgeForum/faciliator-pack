@@ -71,14 +71,15 @@ Check each group whether they are making progress. Unfortunately, if the worksho
 
 
 ### Stories (number of groups * 3 mins)
-Ask each spokesperson to explain how their party will look like (1-2 sentences), and how they have approached mapping.
+Ask each spokesperson to explain how their party will look like (1-2 sentences), and how they have approached mapping. If time permits, allow questions and comments but proceed with caution. By this time, people are usually very relaxed and playful, and the discussion can spin out of control.
 
 ### What was new or challenging?  - discussion (15 mins)
 Ask participants to list things that were new or challenging. Group them and explain as needed.
 
 ### Closing
+* Praise the group for the effort.
 * Emphasise that communication is more important than the artifact.
-* Explain how the same process will be used to create a shared situational awareness for the group business challenge. 
+* Explain how the same process will be used to create a shared situational awareness for the whatever challenge they do face. 
 * Proceed into the next part of the workshop.
 
 
@@ -96,4 +97,4 @@ Some people do not like to celebrate NY. Acknowledge that it is ok to not like N
 * the person may focus on the process and what the group wants to do. It is actually a very good roleplay when some people do not like the initiative.
 The goal is to shift the focus from the party to mapping.
 #### What kind of party it should be?
-You decide.
+You decide. There is no restrictions except it made overall sense.
