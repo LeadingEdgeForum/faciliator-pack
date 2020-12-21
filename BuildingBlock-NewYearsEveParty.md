@@ -54,11 +54,20 @@ Challenge statement can be also added to the whiteboard, so it is easily accessi
 
 ### Walkthrough (5 mins)
 To further improve the process, it may be worth to do a short walkthrough demonstrating how you, as the facilitator, would start the whole process.
+** Important: ** During walkthrough, make sure you cover the difference between custom-built and utility music. Participants notorously put the component 'Musis' into the map without really giving much thought to it, so you, as the faciliator, have to demonstrate what it is the difference between custom-built music (have it composed just for me, custom selection), product (band, TV celebration) or utility (Spotify NY playlist). Mention the same approach applies to food and other components. Mention that custom-build components are usually deemed to be of high value.
 
 [] TBD: sample video
 
 ### Mapping in breakout groups (20-30 mins)
-Check each group whether they are making progress. Unfortunately, if the workshop is remote, all interactions are incredibly disturbing to the process, so do not intervene if the group is moving forward. They do not have to finish the task, but they need to start going.
+Check each group whether they are making progress. Unfortunately, if the workshop is remote, all interactions are incredibly disturbing to the process, so do not intervene if the group is moving forward. They do not have to finish the task, but they need to start going. It may be worth to provide participants with a list of guiding questions:
+* Who is the most important value receiver?
+* What causes the stakeholders to participate in your project rather than any other project?
+* Have you covered end-to-end journey (awareness, invitations, getting back home)?
+* Do you know how the venue will look like and whether it is important?
+* Do you know what is the difference between custom-built music and utility music?
+* How do you know that the music will fit your guests?
+* Do all the components make a coherent initiative?
+* Who will pay for all of this?
 
 
 ### Stories (number of groups * 3 mins)
