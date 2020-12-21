@@ -28,4 +28,5 @@ and we hope you will get similar value out of it when you will apply mapping to 
   * A board for a walkthrough
   * Boards for the breakout groups
   * A Panel for Q&A Session
-* Example
+* A reference workshop whiteboard design can be found below:
+![Sample Whiteboard Design](resources/NewYearsEveParty/NYEPSambleWhiteboard.jpg?raw=true "Sample Whiteboard")
