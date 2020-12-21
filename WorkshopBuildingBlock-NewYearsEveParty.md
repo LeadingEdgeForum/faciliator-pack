@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-The page below contains description, facilitator's guide and resources associated with a 'New Year's Eve Party' exercise, which is supposed to help workshop participants to gain confidence in their mapping knowledge and prepare a map in a business-neutral environment.
+The page below contains description, facilitator's guide and resources associated with a 'New Year's Eve Party' exercise, which is supposed to help workshop participants to gain confidence in their mapping knowledge and prepare a map in a business-neutral environment. This building block is auxiliary - it must be followed by mapping a business challenge to get something tangible.
 
 **Licence:** CC-BY-SA
 
