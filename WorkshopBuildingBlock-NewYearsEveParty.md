@@ -1,4 +1,4 @@
-# Building Block - New Year's Eve Party Activity
+# Workshop Building Block - New Year's Eve Party
 
 ## Executive Summary
 
