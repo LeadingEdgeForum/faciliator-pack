@@ -32,7 +32,6 @@ and we hope you will get similar value out of it when you will apply mapping to 
 ![Sample Whiteboard Design](resources/NewYearsEveParty/NYEPSambleWhiteboard.jpg?raw=true "Sample Whiteboard")
 * [Ben Mosior's](https://twitter.com/HiredThought) are a good replacement of plain Wardley Mapping templates, as they explicitely guide
 participants through the process:
-
 ![Ben's Template](resources/NewYearsEveParty/bmtemplate.jpg)
 
 ## The exercise workflow
