@@ -21,7 +21,7 @@ One of Simon's stories will do, but it is much better to have something personal
 Some people may have heard about mapping and they may recognise it as an IT thing and categorise mapping not useful for them.
 Asking people to not judge mapping before the workshop ends is advised.
 * It is worth to have a business challenge identified at the beginning of the workshop and point out to it just before this exercise. 
-'We are doing this exercise to get practical with Wardley Mapping, which provided [that value] in [the use case], 
+'We are doing this exercise to get practical with Wardley Mapping, which provided `that value` in `the use case`, 
 and we hope you will get similar value out of it when you will apply mapping to your business challenge.
 * Participants must be split into groups between 4 to 6 members. In larger groups, some people may not participate in the discussion. 
 * Miro Board design should accomodate at least three major sections:
@@ -30,3 +30,27 @@ and we hope you will get similar value out of it when you will apply mapping to 
   * A Panel for Q&A Session
 * A reference workshop whiteboard design can be found below:
 ![Sample Whiteboard Design](resources/NewYearsEveParty/NYEPSambleWhiteboard.jpg?raw=true "Sample Whiteboard")
+* (Ben Mosior's)[https://twitter.com/HiredThought] are a good replacement of plain Wardley Mapping templates, as they explicitely guide
+participants through the process:
+ ![Ben's Template](resources/NewYearsEveParty/bmtemplate.jpg)
+
+## The exercise workflow
+
+
+### Challenge statement (5 mins)
+
+This is a moment in which a facilitator briefs the group about the task. The brief should cover:
+* Why the group is doing the exercise? ('To first-hand experience the process and gain confidence'). Self-doubt at this moment is very common and the group is likely to be uncomfortable.
+* The description of activities that participants should undertake. Those usually include:
+  * Choosing a spokesperson at the beginning that will present results of the work to the wide audience. In case of technical limitations,
+  the spokesperson acts like a map owner, which is useful if it is necessary to fallback on screen sharing and power point. Miro is not allowed 
+  everywhere due to the security concerns.
+  * Deciding upon group's vision. What kind of party do they want to throw and what will attract participants, given the competition between parties? 
+  * Identification of stakeholders. Which of them are the stakeholders that should be positioned at the top of the map? What value will they get?
+  * Identification of components, assignement of Evolution phases.
+  * Preparing a story for a wider audience, because not all people can read maps.
+  * Iterative nature of the exercise. Participants are likely to discover that the vision determines the selection of components and that available components influence the vision. Some tough compromises may be required, and this is where the value is. We are making conflicts explicit.
+Challenge statement can be also added to the whiteboard, so it is easily accessible to everyone.
+
+### Walkthrough [5 mins]
+To further improve the process, it may be worth to do a short walkthrough demonstrating how you, as the facilitator, would start the whole process. 
