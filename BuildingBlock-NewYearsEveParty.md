@@ -86,3 +86,5 @@ Some people do not like to celebrate NY. Acknowledge that it is ok to not like N
 * the person may try to convince the group to organise a charity show instead and support a cause
 * the person may focus on the process and what the group wants to do. It is actually a very good roleplay when some people do not like the initiative.
 The goal is to shift the focus from the party to mapping.
+#### What kind of party it should be?
+You decide.
