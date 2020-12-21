@@ -1,4 +1,4 @@
-# New Year's Eve Party Activity
+# Building Block - New Year's Eve Party Activity
 
 ## Executive Summary
 
@@ -52,5 +52,22 @@ This is a moment in which a facilitator briefs the group about the task. The bri
   * Iterative nature of the exercise. Participants are likely to discover that the vision determines the selection of components and that available components influence the vision. Some tough compromises may be required, and this is where the value is. We are making conflicts explicit.
 Challenge statement can be also added to the whiteboard, so it is easily accessible to everyone.
 
-### Walkthrough [5 mins]
-To further improve the process, it may be worth to do a short walkthrough demonstrating how you, as the facilitator, would start the whole process. 
+### Walkthrough (5 mins)
+To further improve the process, it may be worth to do a short walkthrough demonstrating how you, as the facilitator, would start the whole process.
+
+[] TBD: sample video
+
+### Mapping in breakout groups (20-30 mins)
+Check each group whether they are making progress. Unfortunately, if the workshop is remote, all interactions are incredibly disturbing to the process, so do not intervene if the group is moving forward. They do not have to finish the task, but they need to start going.
+
+
+### Stories (number of groups * 3 mins)
+Ask each spokesperson to explain how their party will look like (1-2 sentences), and how they have approached mapping.
+
+### What was new or challenging?  - discussion (15 mins)
+Ask participants to list things that were new or challenging. Group them and explain as needed.
+
+### Closing
+* Emphasise that communication is more important than the artifact.
+* Explain how the same process will be used to create a shared situational awareness for the group business challenge. 
+* Proceed into the next part of the workshop.
