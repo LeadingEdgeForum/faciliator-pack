@@ -71,3 +71,18 @@ Ask participants to list things that were new or challenging. Group them and exp
 * Emphasise that communication is more important than the artifact.
 * Explain how the same process will be used to create a shared situational awareness for the group business challenge. 
 * Proceed into the next part of the workshop.
+
+
+## FAQ
+
+### Participant questions
+
+#### Why are we doing this?
+Some people sit in the workshop because they have to, not because they want to. 
+'We want to practice Wardley Mapping in a neutral domain to build confidence in using the framework, and then apply the framework for the business challenge.'
+#### I hate New Year's Eve Parties / Parties at all!
+Some people do not like to celebrate NY. Acknowledge that it is ok to not like NY or parties, point out the true value of the exercise (getting used to mapping), and offer a few suggestions:
+* the person may try to convince the group to do an alternative celebration (f.e. for people that do not like parties)
+* the person may try to convince the group to organise a charity show instead and support a cause
+* the person may focus on the process and what the group wants to do. It is actually a very good roleplay when some people do not like the initiative.
+The goal is to shift the focus from the party to mapping.
